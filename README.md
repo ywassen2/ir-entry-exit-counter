@@ -56,14 +56,6 @@ Occupancy updates are sent every 10 seconds while the system is running.
 
 ---
 
-## Backend & Dashboard
-
-The backend is a **Node.js** server that receives HTTP requests from the ESP32 and serves a live HTML dashboard. It is deployed on **Railway** for always-on cloud access.
-
-*(Server code to be added to this repo.)*
-
----
-
 ## Team
 
 Built for GEEN 1400 at CU Boulder by:
