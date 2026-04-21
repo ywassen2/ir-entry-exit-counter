@@ -68,7 +68,11 @@ The backend is a **Node.js** server that receives HTTP requests from the ESP32 a
 
 Built for GEEN 1400 at CU Boulder by:
 - Yonas Wassen
-- *(teammates)*
+- Abel Amnesisa
+- Suhit Mogadati
+- Fischer Woods
+- Jackson Kadlec
+- Ubaldo Landa Posas
 
 ---
 
